@@ -1,0 +1,90 @@
+ No nodes.
+1, 3, 4.
+1, 2, 11.
+5, 8.
+0, 2, 4, 5, 7, 8, 11.
+2, 3, 4, 6, 8, 10, 11, 12, 13.
+1, 3, 10.
+1, 3.
+1, 2, 4.
+4, 8.
+ No nodes.
+1, 3, 4.
+1, 2, 11.
+5, 8.
+0, 2, 4, 5, 7, 8, 11.
+2, 3, 4, 6, 8, 10, 11, 12, 13.
+1, 3, 10.
+1, 3.
+1, 2, 4.
+4, 8.
+ No nodes.
+David, Michael, Robert.
+John, Richard, Robert.
+Linda, Mary.
+David, James, Jennifer, John, Linda, Mary, Richard.
+David, John, Joseph, Linda, Michael, Patricia, Richard, Thomas, William.
+Michael, Robert, William.
+Michael, Robert.
+David, John, Robert.
+David, Linda.
+ No nodes.
+David, Michael, Robert.
+John, Richard, Robert.
+Linda, Mary.
+David, James, Jennifer, John, Linda, Mary, Richard.
+David, John, Joseph, Linda, Michael, Patricia, Richard, Thomas, William.
+Michael, Robert, William.
+Michael, Robert.
+David, John, Robert.
+David, Linda.
+ No nodes.
+Kenny, Stan, Tolkien.
+Kenny, Kyle, Veronica.
+Heidi, Sharon.
+Eric, Heidi, Kyle, Liane, Sharon, Tolkien, Veronica.
+Bebe, Gerald, Jimbo, Kyle, Michael, Sharon, Stan, Tolkien, Veronica.
+Gerald, Kenny, Stan.
+Kenny, Stan.
+Kenny, Kyle, Tolkien.
+Sharon, Tolkien.
+ No nodes.
+Bran, Cat, Jon.
+Cat, Daenerys, Jorah.
+Jaime, Sansa.
+Bran, Cersei, Daenerys, Jaime, Jorah, Ned, Sansa.
+Arya, Bran, Daenerys, Jaime, Joffrey, Jon, Jorah, Robert, Viserys.
+Cat, Jon, Robert.
+Cat, Jon.
+Bran, Cat, Daenerys.
+Bran, Jaime.
+ No nodes.
+David, Michael, Robert.
+John, Richard, Robert.
+Linda, Mary.
+David, James, Jennifer, John, Linda, Mary, Richard.
+David, John, Joseph, Linda, Michael, Patricia, Richard, Thomas, William.
+Michael, Robert, William.
+Michael, Robert.
+David, John, Robert.
+David, Linda.
+ No nodes.
+Bernie, Bill, Jimmy.
+Alexandria, Arnold, Jimmy.
+John, Kamala.
+Alexandria, Arnold, Barack, Bill, Elizabeth, John, Kamala.
+Alexandria, Arnold, Bernie, Bill, George, Hillary, Joe, John, Nancy.
+Bernie, Jimmy, Joe.
+Bernie, Jimmy.
+Arnold, Bill, Jimmy.
+Bill, John.
+ No nodes.
+B, D, E.
+B, C, L.
+F, I.
+A, C, E, F, H, I, L.
+C, D, E, G, I, K, L, M, N.
+B, D, K.
+B, D.
+B, C, E.
+E, I.

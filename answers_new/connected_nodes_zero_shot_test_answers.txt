@@ -1,0 +1,90 @@
+ No nodes.
+1, 3, 4.
+1, 2, 11.
+5, 8.
+0, 2, 4, 5, 7, 8, 11.
+2, 3, 4, 6, 8, 10, 11, 12, 13.
+1, 3, 10.
+1, 3.
+1, 2, 4.
+4, 8.
+5.
+1, 3, 4, 6.
+0, 1, 4, 6, 12.
+5, 8.
+1, 3, 4, 6, 7, 8, 9, 10, 11, 13, 14.
+0, 2, 3, 5, 7, 8, 9, 11, 13, 14.
+1, 2, 4, 6, 7, 11, 13.
+1, 3.
+0, 1, 2, 3.
+0.
+Jennifer.
+David, Michael, Robert.
+Jennifer, Mary, Robert.
+David, Jennifer, Mary, Michael, William.
+Christopher, Jennifer, Joseph, Linda, Mary, Patricia, Robert, Thomas.
+Christopher, Elizabeth, James, John, Joseph, Linda, Mary, William.
+Elizabeth, James, Joseph, Linda, Thomas, William.
+Michael.
+James, John, Michael, Robert.
+James.
+ No nodes.
+Jennifer, John, Mary, Patricia.
+Michael.
+David, Elizabeth, John, Michael, Robert.
+James, John, Joseph, Patricia, Richard, Robert, William.
+David, John, Joseph, Linda, Michael, Patricia, Richard, Thomas, William.
+David, James, John, Michael.
+Michael.
+James, John, Michael, Robert.
+David, Linda.
+Tolkien.
+Kyle.
+ No nodes.
+Bebe, Eric, Liane, Stan, Tolkien.
+Eric, Heidi, Kyle, Liane, Sharon, Tolkien, Veronica.
+Eric, Heidi, Herbert, Jimbo, Kenny, Kyle, Liane, Linda, Stan, Tolkien, Veronica.
+Bebe, Eric, Liane.
+Eric, Kyle, Tolkien.
+Eric, Kenny, Stan, Tolkien.
+Heidi, Kyle, Liane.
+ No nodes.
+Arya, Cersei, Daenerys, Sansa.
+Petyr, Theon.
+Arya, Bran, Cersei, Jon, Ned.
+Jaime, Joffrey, Ned, Sansa.
+Arya, Daenerys, Jon, Jorah, Petyr, Robert, Sansa, Viserys.
+Cat, Daenerys, Joffrey, Jon.
+Jon.
+Bran, Cat, Daenerys.
+Bran, Ned, Stannis, Viserys.
+ No nodes.
+David, Michael, Robert.
+Elizabeth, Jennifer, Richard, William.
+David, Elizabeth, Jennifer, Mary, William.
+Christopher, David, Elizabeth, Jennifer, Linda, Michael, Patricia, Richard, Robert, Thomas, William.
+David, Elizabeth, Jennifer, Mary, Michael, Patricia, Thomas, William.
+Robert, Thomas.
+David, James, John.
+David, James, John, Michael.
+David, Linda.
+Bill.
+Arnold, Elizabeth, Hillary, Kamala.
+Elizabeth, Jimmy, Kamala.
+John, Kamala.
+Arnold, Barack, Ben, Bernie, Bill, Elizabeth, Hillary.
+Alexandria, Arnold, Barack, Ben, Bernie, George, Hillary, Jimmy, Joe, John.
+Bernie, Jimmy, Joe.
+Bernie.
+Arnold, Barack, Bernie, Jimmy.
+Arnold, Joe.
+ No nodes.
+C, F, H.
+J, P.
+F, I.
+A, C, D, E, H, I, J, M, N, O.
+B, C, H, J, K, N, O.
+B, C, D, M, N.
+D.
+A, C, D, E.
+C, F, H.

@@ -1,0 +1,90 @@
+13.
+5, 6.
+2, 11.
+5, 8.
+2, 4, 5, 7, 8, 11.
+13, 14.
+0, 1, 2, 3, 10, 11, 13.
+1, 2, 3.
+1, 2, 4.
+1, 4, 8, 9, 10, 11, 12, 14, 17.
+13, 14.
+3, 4.
+2, 11.
+5, 8.
+2, 4, 5, 7, 8, 11.
+2, 3, 4, 6, 8, 10, 11, 12, 13.
+1, 3, 10.
+1, 3.
+1, 2, 4.
+4, 8.
+1.
+David, John, Michael, Patricia.
+David, John, Richard.
+Mary, Linda.
+David, James, John, Jennifer, Linda, Richard, Thomas.
+1.
+14.
+John, Michael.
+David, John, Michael, Robert.
+2 nodes (David, Linda).
+1.
+David, Mary, Patricia.
+David, John, Richard.
+Linda, Mary.
+David, Jennifer, John, Linda, Mary, Richard.
+James, John, Michael, Robert, Thomas.
+Joseph, Richard, Thomas, William.
+1.
+David, John, Michael, Robert.
+Barbara, David, Elizabeth, Jennifer, Linda, Mary, Patricia, Richard, Robert, Sarah, William.
+Gerald, Jimbo, Linda, Sharon, Veronica.
+Bebe, Heidi, Kenny, Stan, Tolkien.
+Heidi, Kenny, Kyle, Tolkien, Veronica.
+Bebe, Gerald, Heidi, Sharon.
+Heidi, Kyle, Liane, Sharon, Veronica.
+Herbert, Jimbo, Kyle, Michael, Sharon, Tolkien, Veronica.
+1.
+Kenny, Kyle, Stan.
+Kenny, Kyle, Stan, Tolkien.
+Chris, Linda, Sharon, Stan, Tolkien.
+Cersei, Joffrey, Jorah, Maester, Petyr, Robert.
+Arya, Daenerys, Jon, Sansa.
+1.
+Arya, Bran, Cat, Jaime, Jon, Robert, Sansa.
+1.
+Arya, Cersei, Jaime, Jon, Jorah, Robert, Viserys, and Joffrey.
+Arya, Joffrey, Jon, Robert.
+1.
+Bran, Cat, Daenerys, Jon.
+Arya, Bran, Jaime, Jon.
+1.
+David, Mary, Michael, Patricia, Robert.
+David, Elizabeth, John, Joseph, Richard, William.
+Linda, Mary.
+1.
+1.
+Joseph, Richard, Thomas, William.
+John, Michael.
+David, John, Michael, Robert.
+David, Linda.
+Alexandria, Joe, Nancy, Pete.
+Bernie, Hillary, Kamala.
+Alexandria, Arnold, Jimmy, and Bill.
+1.
+Alexandria, Arnold, Ben, Elizabeth, Hillary, John, Kamala, Nancy, Pete.
+Alexandria, George, Nancy, Pete.
+Joe, Nancy.
+3.
+Arnold, Bill, Jimmy.
+1.
+N, O.
+B, D, E, G.
+B, C, L.
+F, I.
+C, E, F, H, I, L.
+C, D, E, G, H, I, J, K, L, M, N.
+C, H, K, L, N.
+C, D.
+B, C, E.
+B, E, I.

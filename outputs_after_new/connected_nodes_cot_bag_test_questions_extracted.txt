@@ -1,0 +1,90 @@
+13.
+1, 3, 4, 5, 6.
+1, 2, 11.
+5, 8.
+2, 4, 5, 7, 8, 11.
+12, 13.
+0, 1, 2, 3, 10, 13.
+1, 2, 3.
+1, 2, 4.
+4, 8.
+13.
+3, 4.
+1, 2, 11.
+5, 8.
+2, 4, 5, 7, 8, 11.
+2, 3, 4, 6, 8, 10, 11, 12, 13.
+1, 3, 10.
+1, 3.
+1, 2, 4.
+4, 8.
+This is because there are no edges from Joseph to any other nodes.
+David, Michael, Patricia, Robert.
+John, Richard.
+Mary, Linda.
+David, James, Jennifer, John, Linda, Richard.
+Joseph, Linda, Michael, Thomas.
+Elizabeth, Richard, Thomas, William.
+Michael.
+David, John, Robert.
+David, Linda.
+This is because there are no edges from Joseph to any other node.
+David, Mary, Michael, Patricia, Robert.
+John, Robert, Richard.
+Linda, Mary.
+David, John, Jennifer, Linda, Richard.
+James, John, Joseph, Linda, Patricia, Richard, Thomas.
+Elizabeth, James, Michael, Richard, Thomas, William.
+Michael, Robert.
+David, John, Michael, Robert.
+David, Linda.
+None.
+Bebe, Heidi, Kenny, Stan, Tolkien.
+Eric, Heidi, Kenny, Kyle, Linda, Tolkien, Veronica.
+Heidi, Sharon.
+Heidi, Kyle, Liane, Sharon, Tolkien, Veronica.
+Eric, Jimbo, Kyle, Sharon, Stan, Tolkien, Veronica.
+Gerald, Jimbo, Kenny, Linda, Veronica.
+Kenny, Kyle, Stan.
+Kenny, Kyle, Stan, Tolkien.
+Sharon, Stan, Tolkien.
+None.
+Arya, Jon, Sansa.
+Cat, Daenerys, Jorah.
+Arya, Jaime, Sansa.
+Arya, Bran, Daenerys, Jaime, Ned, Sansa.
+Arya, Daenerys, Jaime, Joffrey, Jon, Petyr, Robert, Viserys.
+Jaime, Joffrey, Ned, Petyr, Robert.
+Cat, Daenerys, Jon.
+Bran, Cat, Daenerys, Jon.
+Bran, Jaime.
+This is because there is no edge from Joseph to any other node.
+David, Mary, Michael, Patricia, Robert.
+David, John, Robert.
+Linda, Mary.
+David, Jennifer, John, Linda, Mary, Richard.
+James, John, Joseph, Linda, Richard, Thomas.
+Elizabeth, Robert, William.
+John, Michael.
+David, John, Robert.
+David, Linda.
+This is because there is no edge from George to any other node in G.
+Bernie, Bill, Hillary, Jimmy, Kamala.
+Alexandria, Arnold, Bill, Jimmy.
+Hillary, John, Kamala.
+Alexandria, Arnold, Ben, Bill, Elizabeth, George, John, Kamala.
+Alexandria, Ben, Bernie, Elizabeth, George, Hillary, John, Nancy.
+Joe, Nancy.
+Jimmy, Bernie.
+Arnold, Bill, Jimmy.
+Bill, Alexandria, Barack, John, Bernie, Joe.
+None.
+B, D, E.
+B, C, L.
+F, I.
+C, E, F, H, I, L.
+C, D, G, H, I, J, K, L, M, N.
+B, D, K, L.
+None.
+B, C, E.
+E, I.

@@ -1,0 +1,90 @@
+13.
+1, 3, 4, 5, 6.
+2, 11.
+5, 8.
+2, 4, 5, 7, 8, 11.
+11, 12, 13.
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13.
+1, 3.
+1, 2, 4.
+4, 8.
+There are no nodes connected to 12.
+3, 4.
+2, 11.
+5, 8.
+2, 4, 5, 7, 8, 11.
+2, 3, 4, 6, 8, 10, 11, 12, 13.
+1, 3, 10, 13.
+1, 3.
+1, 2, 4.
+4, 8.
+This is because there is no edge from Joseph to any other node in the graph.
+David, Michael, Patricia, Robert.
+David, Elizabeth, John, Richard.
+Mary, Linda.
+James, John, Linda, Michael, Patricia.
+John, Joseph, Linda, Michael, Patricia, Richard, Thomas.
+Elizabeth, James, Michael, Richard, Robert, Thomas, William.
+James, John, Michael.
+David, John, Robert.
+David, Linda.
+This is because there are no edges from Joseph to any other nodes in the graph.
+David, Mary, Michael, Patricia, Robert.
+John, Richard.
+Linda, Mary.
+Christopher, David, Elizabeth, James, Jennifer, John, Linda, Patricia, Richard, William.
+James, John, Joseph, Linda, Michael, Patricia, Richard, Thomas.
+Elizabeth, James, Michael, Richard, Thomas, William.
+James, John, Michael, Robert.
+David, John, Michael, Robert.
+David, Linda.
+None.
+Bebe, Heidi, Kenny, Stan, Tolkien.
+Eric, Kenny, Kyle, Tolkien, Veronica.
+Heidi, Sharon.
+Heidi, Kyle, Liane, Sharon, Veronica.
+Eric, Jimbo, Kyle, Sharon, Tolkien.
+Eric, Gerald, Jimbo, Kenny, Linda, Sharon.
+Kenny, Kyle, Stan.
+Kenny, Kyle, Stan, Tolkien.
+Sharon, Stan, Tolkien.
+This is because there is an edge from Viserys to Jorah.
+Arya, Jon, Sansa.
+Arya, Bran, Cat, Daenerys, Jorah.
+Arya, Cat, Jaime, Jon, Sansa.
+Arya, Bran, Cersei, Daenerys, Jaime, Jon, Jorah, Maester, Ned.
+Arya, Daenerys, Jaime, Joffrey, Jon, Petyr, Robert, Viserys.
+Joffrey, Jon, Ned, Robert.
+Cat, Daenerys, Jon.
+Bran, Cat, Daenerys, Jon.
+Bran, Jaime.
+None.
+David, Mary, Michael, Patricia, Robert.
+John, Richard.
+Linda, Mary.
+David, Jennifer, John, Linda, Richard.
+James, John, Joseph, Linda, Michael, Patricia, Richard, Thomas.
+Elizabeth, James, Michael, Richard, Thomas, William.
+Michael, Robert.
+David, John, Michael, Robert.
+David, Linda.
+None.
+Bernie, Hillary, Jimmy, Kamala, Bill.
+Alexandria, Arnold, Bill, Jimmy.
+Hillary, John, Kamala.
+Alexandria, Arnold, Ben, Bill, Elizabeth, George, John, Kamala, Nancy.
+Alexandria, Barack, Ben, Bernie, Elizabeth, George, Hillary, Jimmy, John, Kamala, Nancy.
+Joe, Nancy.
+Jimmy, Bernie.
+Arnold, Bill, Jimmy.
+Barack, Ben, Bill, Elizabeth, Jimmy, John.
+This is a trick question.
+B, D, E.
+B, C, L.
+F, I.
+C, E, F, H, I, L.
+C, D, E, G, H, I, J, K, L, M, N.
+B, D, K, N.
+B, C, D.
+B, C, E.
+E, I.
