@@ -2,10 +2,12 @@ import os
 import transformers
 import torch
 from transformers import AutoTokenizer
+os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'expandable_segments:True'
+
 
 # Directories
-questions_dir = '/mnt/main/questions'
-outputs_dir = '/mnt/main/outputs'
+questions_dir = '/mnt/main/questions_new'
+outputs_dir = '/mnt/main/outputs_new'
 
 # Ensure the output directory exists
 os.makedirs(outputs_dir, exist_ok=True)
@@ -31,9 +33,9 @@ question_files = sorted([os.path.join(questions_dir, f) for f in os.listdir(ques
 count = 0
 # Iterate over all question files
 for question_file in question_files:
-    if count == 0:
-        print("Skipping file: ", question_file)
+    if count < 11:
         count += 1
+        print("Skipping file: ", question_file)
         continue
 
     count += 1
@@ -59,10 +61,14 @@ for question_file in question_files:
         "node_count": 2,
         'node_degree': 2,
         "cycle_check": 7,
-        "connected_nodes": 30,
+        "connected_nodes": 40,
     }
 
+
     max_new_tokens = task_max_tokens.get(task_name, 5)  # Default to 5 if task name is not found
+
+    if 'zero_cot' in os.path.basename(question_file):
+        max_new_tokens= 60
 
     print(f"Task: {task_name}, Max New Tokens: {max_new_tokens}")
 
@@ -97,3 +103,4 @@ for question_file in question_files:
             a_file.write(answer + '\n\n')  # Add an extra newline character after each answer
     
     print(f"Answers saved to file: {output_file}")
+    torch.cuda.empty_cache()

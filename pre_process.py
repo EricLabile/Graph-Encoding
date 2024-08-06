@@ -2,9 +2,9 @@ import tensorflow as tf
 import os
 
 # Directory containing the TFRecord files
-tfrecord_dir = '/mnt/main/talk-like-a-graph/tasks'
-questions_dir = '/mnt/main/questions'
-answers_dir = '/mnt/main/answers'
+tfrecord_dir = '/mnt/main/talk-like-a-graph/tasks_new_new'
+questions_dir = '/mnt/main/questions_new'
+answers_dir = '/mnt/main/answers_new'
 
 # Ensure the directories exist
 os.makedirs(questions_dir, exist_ok=True)
@@ -43,8 +43,7 @@ for tfrecord_file in tfrecord_files:
         questions.append(question.numpy().decode('utf-8'))
         answers.append(answer.numpy().decode('utf-8'))
         cnt += 1
-        if cnt == 100:
-            break
+    # break
 
     # Save questions and answers to respective directories
     output_file = tfrecord_file.split('/')[-1].split('.')[0]
