@@ -53,8 +53,8 @@ average_accuracies = []
 for i in range(0, len(accuracies), 5):
     # Exclude the 4th file (index 3) in each group of 5
     group = accuracies[i:i+5]
-    if len(group) == 5:
-        group.pop(3)
+    # if len(group) == 5:
+    #     group.pop(3)
     avg_accuracy = sum(group) / len(group)
     average_accuracies.append(avg_accuracy)
 
@@ -101,4 +101,4 @@ sns.despine()
 plt.tight_layout(rect=[0, 0.03, 1, 0.95])
 
 # Save the figure
-plt.savefig('average_accuracies.png')
+plt.savefig('average_accuracies_by_task.png')

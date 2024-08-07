@@ -31,8 +31,9 @@ for answer_file in os.listdir(answers_dir):
     # print(answer_file)
     # the file name is in the format edge_count_zero_cot_test_answers.txt
     # if the file name contains zero_cot, skip it
-    if 'zero_cot' in answer_file:
-        continue
+
+    # if 'zero_cot' in answer_file:
+    #     continue
     task_name_match = re.match(r'(\w+)_test_answers.txt', answer_file)
     if task_name_match:
         task_name = task_name_match.group(1)
@@ -49,7 +50,7 @@ for answer_file in os.listdir(answers_dir):
                     accuracy_counts[encoder_index] += chunk_correct
 
 # Calculate average accuracies
-average_accuracies = [(count / 240) * 100 for count in accuracy_counts]
+average_accuracies = [(count / 300) * 100 for count in accuracy_counts]
 
 # Plot the results
 tasks = text_encoders
@@ -84,5 +85,5 @@ plt.figtext(0.5, 0.01, 'Note: The graphs are generated using the ER algorithm on
 sns.despine()
 
 plt.tight_layout()
-plt.savefig('average_accuracies_by_encoding_method_skip.png')
+plt.savefig('average_accuracies_by_encoding_method.png')
 plt.show()
