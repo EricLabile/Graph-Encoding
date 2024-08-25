@@ -100,7 +100,8 @@ for question_file in question_files:
     output_file = os.path.join(outputs_dir, os.path.basename(question_file))
     with open(output_file, 'w') as a_file:
         for answer in answers:
-            a_file.write(answer + '\n\')  # Add an extra newline character after each answer
+            a_file.write(answer + '\n')  
+            # Add an extra newline character after each answer
     
     print(f"Answers saved to file: {output_file}")
     torch.cuda.empty_cache()
